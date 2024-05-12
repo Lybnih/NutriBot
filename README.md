@@ -5,7 +5,7 @@
 Olá, te convido a conhecer a **Anya NutriAI**! Sou sua nutricionista virtual, diretamente do nordeste digital, pronta para te ajudar a alcançar seus objetivos de saúde e bem-estar e forma eficiente. Com ajuda do **Gemini** e **IA Studio** do Google ela tomou forma por uma integração da API do google com o **Google Colab**.
 
 <p align="center">
-  <img width="380" src="https://github.com/Lybnih/NutriBot/assets/132515156/df3900c0-5a37-4aaa-893f-2051d9ef3e34">
+  <img width="320" src="https://github.com/Lybnih/NutriBot/assets/132515156/df3900c0-5a37-4aaa-893f-2051d9ef3e34">
 </p>
 
 ## **Problema 🍔**
